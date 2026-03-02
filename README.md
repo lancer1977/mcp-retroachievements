@@ -1,6 +1,9 @@
 # RetroAchievements MCP (Obsidian Vault Project)
 
-MCP server for querying RetroAchievements and caching responses in a local SQLite database.
+MCP server for querying RetroAchievements.
+
+> C# replacement server lives in `./csharp` and is now the preferred implementation.
+> The TypeScript implementation in `./src` is kept temporarily for migration compatibility.
 
 ## Features (MVP)
 

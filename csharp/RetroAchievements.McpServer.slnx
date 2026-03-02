@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RetroAchievements.McpServer/RetroAchievements.McpServer.csproj" />
+  </Folder>
+  <Project Path="../../APIs/Api.RetroAchievements/src/PolyhydraGames.RetroAchievements.csproj" />
+</Solution>
